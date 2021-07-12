@@ -8,3 +8,5 @@ Just link the script to the relevant html page :)
 ```js
 <script src="lastScroll.js"></script>
 ```
+
+Source code is also available in [codpen](https://codepen.io/alireza82/pen/poPNEZW)
